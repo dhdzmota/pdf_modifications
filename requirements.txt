@@ -1,0 +1,5 @@
+notebook==6
+pypdf==3.16.4
+flake8==6.1.0
+
+-e .
